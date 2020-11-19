@@ -19,7 +19,7 @@
 
 Тестирование производилось в следующем окружении:
 
-*Windows version 1909 (OS Build 18363.1198)
-*openjdk version "11.0.9" 2020-10-20
-*OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9+11)
-*OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9+11, mixed mode)
+* Windows version 1909 (OS Build 18363.1198)
+* openjdk version "11.0.9" 2020-10-20
+* OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9+11)
+* OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9+11, mixed mode)
